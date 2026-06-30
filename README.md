@@ -185,13 +185,6 @@ Machine learning application for emotion classification using multiple input sou
 
 ---
 
-# 📊 GitHub Statistics
-
-
-![Yashwanth GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth17230&show_icons=true&theme=transparent)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth17230&layout=compact)
 
 
 ---
@@ -215,7 +208,7 @@ LinkedIn:
 
 
 Portfolio:
-[https://YOUR_PORTFOLIO_LINK](https://yashwanthr.vercel.app/)
+https://yashwanthr.vercel.app/
 
 
 Email:

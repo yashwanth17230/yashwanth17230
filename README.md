@@ -64,7 +64,7 @@ Currently working on scalable backend systems, mobile applications, API developm
 ![AWS](https://img.shields.io/badge/AWS-orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black)
 ![Git](https://img.shields.io/badge/Git-red)
-![Docker](https://img.shields.io/badge/Docker-blue)
+
 
 
 ## Tools
@@ -123,7 +123,7 @@ A full-stack real estate platform with property management and user features.
 ---
 
 
-## 🛒 FutureScoops - E-Commerce Platform
+## 🛒 E-Commerce Platform
 
 **React.js | React Native | Node.js | Express.js | MySQL**
 
